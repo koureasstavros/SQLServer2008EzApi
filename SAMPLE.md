@@ -1,6 +1,6 @@
 # EzApi Sample Code Usage
 
-'''
+```
 using System;
 using System.Linq;
 using System.Text;
@@ -37,4 +37,4 @@ namespace EzAPIPackageDemo
         }
     }
 }
-'''
+```
